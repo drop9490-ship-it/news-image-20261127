@@ -1,0 +1,4 @@
+DreamShaper XL
+SDXL 1.0
+Juggernaut XL
+Flux.1-Schnell fp8 (Compact)

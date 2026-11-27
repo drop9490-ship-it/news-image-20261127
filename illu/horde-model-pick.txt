@@ -1,0 +1,4 @@
+SDXL 1.0	163	25.0	2
+Juggernaut XL	394	115.0	5
+DreamShaper XL	0	0.0	2
+Flux.1-Schnell fp8 (Compact)	543	263.0	4

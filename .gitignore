@@ -1,0 +1,6 @@
+# Horde sidecar files (per-job JSON/logs/workdirs) — not part of the entry.
+illu/*.json
+illu/*.log
+illu/w*/
+illu/horde-raw.img
+# Local notes / driver scripts live outside the repo; nothing else ignored.
